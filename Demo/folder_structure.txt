@@ -1,0 +1,111 @@
+Folder PATH listing for volume OS
+Volume serial number is 0A9F-5784
+C:.
+¦   folder_structure.txt
+¦   
++---Asp.Net
+¦   +---Practicals
+¦   ¦   +---Practical 1
+¦   ¦   +---Practical 2
+¦   ¦   +---Practical 3
+¦   ¦   +---Practical 4
+¦   ¦           Lab_4_1.aspx
+¦   ¦           Lab_4_1.aspx.cs
+¦   ¦           Lab_4_2.aspx
+¦   ¦           Lab_4_2.aspx.cs
+¦   ¦           Lab_4_3.aspx
+¦   ¦           Lab_4_3.aspx.cs
+¦   ¦           Lab_M_4_1.csproj
+¦   ¦           
+¦   +---Study Materials
+¦       +---PDFs
+¦       +---PPT
++---Flutter
+¦   +---Practicals
+¦   ¦   +---First 5 (1-5)
+¦   ¦   ¦   +---Practical 1
+¦   ¦   ¦   ¦       1.dart
+¦   ¦   ¦   ¦       2.dart
+¦   ¦   ¦   ¦       3.dart
+¦   ¦   ¦   ¦       4.dart
+¦   ¦   ¦   ¦       5.2.dart
+¦   ¦   ¦   ¦       5.3.dart
+¦   ¦   ¦   ¦       5.dart
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Practical 2
+¦   ¦   ¦   ¦       1.dart
+¦   ¦   ¦   ¦       2.dart
+¦   ¦   ¦   ¦       3.dart
+¦   ¦   ¦   ¦       4.dart
+¦   ¦   ¦   ¦       5.dart
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Practical 3
+¦   ¦   ¦   ¦       1.dart
+¦   ¦   ¦   ¦       2.dart
+¦   ¦   ¦   ¦       3.dart
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Practical 4
+¦   ¦   ¦   +---Practical 5
+¦   ¦   +---Second 5 (6-10)
+¦   ¦       +---Practical 10
+¦   ¦       +---Practical 6
+¦   ¦       ¦       passwordIcon.dart
+¦   ¦       ¦       register.dart
+¦   ¦       ¦       
+¦   ¦       +---Practical 7
+¦   ¦       ¦       birthdayCard.dart
+¦   ¦       ¦       imgAsset.dart
+¦   ¦       ¦       stack.dart
+¦   ¦       ¦       WEBurl.dart
+¦   ¦       ¦       
+¦   ¦       +---Practical 8
+¦   ¦       ¦       calculatorUI.dart
+¦   ¦       ¦       shoppingItem.dart
+¦   ¦       ¦       
+¦   ¦       +---Practical 9
+¦   +---Study Materials
+¦       ¦   Flutter_Lab_Manual.pdf
+¦       ¦   Output Format.docx
+¦       ¦   
+¦       +---PDFs
+¦       ¦       Unit-1_ENG.pdf
+¦       ¦       Unit_2_GUJ.pdf
+¦       ¦       
+¦       +---PPT
+¦               Unit-1.pptx
+¦               Unit-2.pptx
+¦               
++---Software Enginnering
+¦   +---Practicals
+¦   ¦   +---Draw_io
+¦   ¦   +---PDFs
+¦   +---Study Materials
+¦       +---PDFs
+¦       +---PPT
++---UI_UX
+    +---Practicals
+    ¦   +---PDFs
+    ¦   ¦       133_Practical-1_GeometricShapes.pdf
+    ¦   ¦       133_Practical-2_SettingsScreen.pdf
+    ¦   ¦       133_Practical-3_SignScreens.pdf
+    ¦   ¦       133_Practical-4_BooleanMasking.pdf
+    ¦   ¦       133_Practical-5_Cards_UI.pdf
+    ¦   ¦       
+    ¦   +---Word Files
+    ¦           133_Practical-1_GeometricShapes.docx
+    ¦           133_Practical-2_SettingsScreen.docx
+    ¦           133_Practical-3_SignScreens.docx
+    ¦           133_Practical-4_BooleanMasking.docx
+    ¦           133_Practical-5_Cards_UI.docx
+    ¦           
+    +---Study Materials
+        +---PDFs
+        ¦       Unit-1 ENG.pdf
+        ¦       Unit-1 GUJ.pdf
+        ¦       Unit-4_ENG.pdf
+        ¦       Unit-4_GUJ.pdf
+        ¦       
+        +---PPT
+                Unit-1.pptx
+                Unit-4.pptx
+                
