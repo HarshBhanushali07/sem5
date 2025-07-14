@@ -1,12 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:mealmind/screens/auth/Signupscreen.dart';
 import 'firebase_options.dart';
-// import 'profile_page.dart';
-import 'Profile_Dhairya.dart';
+
+import 'screens/auth/Login_Screen.dart'; // Change this if your login screen is in a different file
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(const MyApp());
 }
 
@@ -18,7 +21,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'MealMind',
       debugShowCheckedModeBanner: false,
-      home: ProfilePage(),
+      home: const Loginscreen(),
     );
   }
 }

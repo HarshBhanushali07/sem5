@@ -1,4 +1,4 @@
-package com.example.mealmind
+package com.example.demo
 
 import io.flutter.embedding.android.FlutterActivity
 
