@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "206942094335",
+    "firebase_url": "https://mealmind-restro-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mealmind-restro",
+    "storage_bucket": "mealmind-restro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206942094335:android:9897239986ff2133ce5dca",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHmrpFeww91HPRi07YrYOXA5RbHLse54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

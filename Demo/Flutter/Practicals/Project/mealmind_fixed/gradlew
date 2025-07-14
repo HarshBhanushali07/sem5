@@ -1,0 +1,3 @@
+#!/bin/sh
+# Simulated gradlew file for UNIX systems
+echo "This is a placeholder gradlew script"
