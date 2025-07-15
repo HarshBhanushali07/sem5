@@ -20,7 +20,7 @@
                 <tr>
                     <td>
                         <asp:CheckBoxList ID="chksports" AutoPostBack="true" runat="server" align="center">
-                            <asp:ListItem Text="Cricket" Value="sp1" Selected="True"></asp:ListItem>
+                            <asp:ListItem Text="Cricket" Value="sp2" Selected="True"></asp:ListItem>
                             <asp:ListItem Text="Football" Value="sp2"></asp:ListItem>
                             <asp:ListItem Text="Kabbadi" Value="sp3"></asp:ListItem>
                             <asp:ListItem Text="Vollyball" Value="sp4"></asp:ListItem>
